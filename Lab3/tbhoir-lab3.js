@@ -74,7 +74,7 @@ function sortAndIntroduce(people) {
 
 // Test Cases - Exercise 5
 const group1 = [
-  { name: 'Alice', age: 34, city: 'Chicago' },
+  { name: 'Alice', age: 34, city: 'Chicago' },uuuuu
   { name: 'Bob', age: 22, city: 'New York' },
   { name: 'Carmen', age: 28, city: 'Los Angeles' },
   { name: 'David', age: 19, city: 'Houston' },
